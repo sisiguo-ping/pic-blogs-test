@@ -1,0 +1,238 @@
+<!--
+
+ If you're seeing this raw XML feed using the Chrome browser, you might want to add an RSS reader extension
+    to Chrome to handle RSS feeds gracefully. For instance, check out
+    https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd
+
+-->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel>
+<title>PingTalk</title>
+<link>
+https://www.pingidentity.com/en/company/blog.rss.xml
+</link>
+<description>Identity Management Blog</description>
+<dc:language>en-US</dc:language>
+<sy:updatePeriod>daily</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://www.pingidentity.com/en/company/blog.rss.xml"/>
+<item>
+<title>
+When It Comes to Regulatory Compliance, Identity and Access Management Rules
+</title>
+<author>blog@pingidentity.com (Dustin Maxey)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/when_it_comes_to_regulatory_compliance_identity_and_access_management_rules.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/when_it_comes_to_regulatory_compliance_identity_and_access_management_rules.html
+</link>
+<pubDate>Mon, 15 Jan 2018 12:32:55 MST</pubDate>
+<description>
+<html> <head></head> <body> <p><em>This is the first in a four-part blog series, where I'll explore how financial services organizations can ensure compliance with regulations and protect against data breach, while delivering exceptional user experiences and facilitating agility and innovation.</em></p> <p>&nbsp;</p> <p>Data security goes hand in hand with financial services, but regulations like PCI DSS and PSD2 make protecting customer information and transactions even more critical. And complicated. Financial services organizations are faced with more pressure than ever before to secure customer transactions, enforce data privacy and consent, and govern access to sensitive customer information. In an increasingly mobile world, where customer convenience and experience rule, adhering to a growing number of regulations is anything but easy.</p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p><em>This is the first in a four-part blog series, where I'll explore how financial services organizations can ensure compliance with regulations and protect against data breach, while delivering exceptional user experiences and facilitating agility and innovation.</em></p> <p>&nbsp;</p> <p>Data security goes hand in hand with financial services, but regulations like PCI DSS and PSD2 make protecting customer information and transactions even more critical. And complicated. Financial services organizations are faced with more pressure than ever before to secure customer transactions, enforce data privacy and consent, and govern access to sensitive customer information. In an increasingly mobile world, where customer convenience and experience rule, adhering to a growing number of regulations is anything but easy.</p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>
+PingID Security Hardening: Your Guide to Achieving Five-Star MFA Security
+</title>
+<author>blog@pingidentity.com (Oren Sternheim)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/pingid_security_hardening_your_guide_to_achieving_five-star_mfa_security.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/pingid_security_hardening_your_guide_to_achieving_five-star_mfa_security.html
+</link>
+<pubDate>Thu, 11 Jan 2018 15:57:48 MST</pubDate>
+<description>
+<html> <head></head> <body> <h4 class="subheading--secondary">Co-authored by Oren Sternheim, Product Security Engineer &amp; Richard Cardona, Manager of Product Security</h4> <h3 class="subheading--secondary"><br><em>"<a href="https://www.forrester.com/search?N=20367+10001" target="_blank">Identity will make or break trust in digital ecosystems</a>" -- Forrester 2018 prediction</em></h3> <p>As a general guideline, here at Ping we recommend you use multi-factor authentication (MFA) for access to any moderate- to high-risk resource. Making certain that users are who they say they are is the security cornerstone in a digital world increasingly under attack from cyber-criminals.</p> <p>&nbsp;</p> <p>To provide appropriate security while maintaining end user productivity, the type of MFA utilized and the user experience impact (UX burden) should be selected to match each distinct use case.</p> <p>&nbsp;</p> <p>Ping is pleased to announce a new guide for security administrators to help achieve optimal security. The <a href="https://ping.force.com/Support/PingIdentityArticle?id=kA31W000000XZiWSAW" target="_blank">PingID Security Hardening Guide</a> was designed to offer technical guidance in increasing the security of your PingID deployment configuration, while enabling you to optimize the end user experience.<br><br></p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <h4 class="subheading--secondary">Co-authored by Oren Sternheim, Product Security Engineer &amp; Richard Cardona, Manager of Product Security</h4> <h3 class="subheading--secondary"><br><em>"<a href="https://www.forrester.com/search?N=20367+10001" target="_blank">Identity will make or break trust in digital ecosystems</a>" -- Forrester 2018 prediction</em></h3> <p>As a general guideline, here at Ping we recommend you use multi-factor authentication (MFA) for access to any moderate- to high-risk resource. Making certain that users are who they say they are is the security cornerstone in a digital world increasingly under attack from cyber-criminals.</p> <p>&nbsp;</p> <p>To provide appropriate security while maintaining end user productivity, the type of MFA utilized and the user experience impact (UX burden) should be selected to match each distinct use case.</p> <p>&nbsp;</p> <p>Ping is pleased to announce a new guide for security administrators to help achieve optimal security. The <a href="https://ping.force.com/Support/PingIdentityArticle?id=kA31W000000XZiWSAW" target="_blank">PingID Security Hardening Guide</a> was designed to offer technical guidance in increasing the security of your PingID deployment configuration, while enabling you to optimize the end user experience.<br><br></p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>
+Healthier Mergers and Acquisitions with Identity and Access Management
+</title>
+<author>blog@pingidentity.com (Andrew Goodman)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/healthier_mergers_and_acquisitions_with_identity_and_access_management.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/healthier_mergers_and_acquisitions_with_identity_and_access_management.html
+</link>
+<pubDate>Wed, 10 Jan 2018 10:22:35 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>Mergers and acquisitions are dominating the <a href="https://www.pingidentity.com/en/platform/industry/healthcare.html" target="_blank">healthcare industry</a> headlines. <a href="https://www.pwc.com/us/en/health-industries/publications/health-services-quarterly-deals-insights.html" target="_blank">PWC reported</a> that Q3 2017 was the 12th quarter in a row that the U.S. has seen over 200 healthcare M&amp;A deals. The recent December announcements of <a href="https://www.advocatehealth.com/news/advocate-and-aurora-to-merge-creating-top-10-health-system-poised-to-transform-the-industry" target="_blank">Advocate Health Care and Aurora Health Care's plans to merge</a>, <a href="https://www.reuters.com/article/us-davita-m-a-unitedhealth/unitedhealth-to-buy-davita-primary-care-unit-for-4-9-billion-idUSKBN1E01HJ" target="_blank">UnitedHealth's plan to buy DaVita</a>, and <a href="http://money.cnn.com/2017/12/03/investing/cvs-health-aetna-merger/index.html" target="_blank">CVS's plan to buy Aetna</a> (just to name a few!) demonstrate that M&amp;A strategies have been widely adopted by healthcare providers like hospitals and clinics, as well as health insurance providers and pharmacies.</p> <p>&nbsp;</p> <p>But what's driving the massive surge in healthcare M&amp;A? And what tools and approaches can help make these mergers and acquisitions successful for all parties involved?<br><br></p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>Mergers and acquisitions are dominating the <a href="https://www.pingidentity.com/en/platform/industry/healthcare.html" target="_blank">healthcare industry</a> headlines. <a href="https://www.pwc.com/us/en/health-industries/publications/health-services-quarterly-deals-insights.html" target="_blank">PWC reported</a> that Q3 2017 was the 12th quarter in a row that the U.S. has seen over 200 healthcare M&amp;A deals. The recent December announcements of <a href="https://www.advocatehealth.com/news/advocate-and-aurora-to-merge-creating-top-10-health-system-poised-to-transform-the-industry" target="_blank">Advocate Health Care and Aurora Health Care's plans to merge</a>, <a href="https://www.reuters.com/article/us-davita-m-a-unitedhealth/unitedhealth-to-buy-davita-primary-care-unit-for-4-9-billion-idUSKBN1E01HJ" target="_blank">UnitedHealth's plan to buy DaVita</a>, and <a href="http://money.cnn.com/2017/12/03/investing/cvs-health-aetna-merger/index.html" target="_blank">CVS's plan to buy Aetna</a> (just to name a few!) demonstrate that M&amp;A strategies have been widely adopted by healthcare providers like hospitals and clinics, as well as health insurance providers and pharmacies.</p> <p>&nbsp;</p> <p>But what's driving the massive surge in healthcare M&amp;A? And what tools and approaches can help make these mergers and acquisitions successful for all parties involved?<br><br></p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>
+Allegiant Travel Company Soars High with Secure Single Sign-on
+</title>
+<author>blog@pingidentity.com (Teresa Wu)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/allegiant_travel_company_soars_high_with_secure_single_sign-on.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2018/allegiant_travel_company_soars_high_with_secure_single_sign-on.html
+</link>
+<pubDate>Wed, 03 Jan 2018 16:29:41 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>For any organization that hires contractors, securing access to company resources can be particularly challenging. Allegiant Travel Company knows this firsthand. Their 11,000-strong workforce is made up of a majority of contractors, all of whom must have fast, reliable and secure access to the systems required to operate the airline.</p> <p>&nbsp;</p> <p>But how could Allegiant enable such access in a user-friendly way, allowing each person to get to the resources needed to do their jobs, quickly and efficiently?</p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>For any organization that hires contractors, securing access to company resources can be particularly challenging. Allegiant Travel Company knows this firsthand. Their 11,000-strong workforce is made up of a majority of contractors, all of whom must have fast, reliable and secure access to the systems required to operate the airline.</p> <p>&nbsp;</p> <p>But how could Allegiant enable such access in a user-friendly way, allowing each person to get to the resources needed to do their jobs, quickly and efficiently?</p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>2017: A Big Year in Our Blogosphere</title>
+<author>blog@pingidentity.com (Natalie Woodard)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/2017_a_big_year_in_our_blogosphere.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/2017_a_big_year_in_our_blogosphere.html
+</link>
+<pubDate>Thu, 28 Dec 2017 14:59:26 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>In the identity and security industry, most years are inundated with fast-paced changes and exciting new developments. At Ping, 2017 felt like an especially busy and eventful year, both within our company and in our industry.</p> <p>&nbsp;</p> <p>We launched our brand new website. We took a giant MFA leap with our mobile SDK for PingID. We witnessed the announcement of Cloud Identity Summit evolving into the Identiverse. We saw how new regulations are driving innovation and opportunity in IAM. In short, it was a great year for blogging, so in case you missed them, we've gathered some of our top blogs for you.<br><br></p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>In the identity and security industry, most years are inundated with fast-paced changes and exciting new developments. At Ping, 2017 felt like an especially busy and eventful year, both within our company and in our industry.</p> <p>&nbsp;</p> <p>We launched our brand new website. We took a giant MFA leap with our mobile SDK for PingID. We witnessed the announcement of Cloud Identity Summit evolving into the Identiverse. We saw how new regulations are driving innovation and opportunity in IAM. In short, it was a great year for blogging, so in case you missed them, we've gathered some of our top blogs for you.<br><br></p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>
+Q&A from the PSD2 & Open Banking Live Demonstration with Ping Identity
+</title>
+<author>blog@pingidentity.com (Caren Havelock)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/qa_from_the_psd2_open_banking_live_demonstration_with_ping_identity.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/qa_from_the_psd2_open_banking_live_demonstration_with_ping_identity.html
+</link>
+<pubDate>Wed, 27 Dec 2017 09:59:33 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>On 14th December 2017, <a href="https://www.linkedin.com/in/carbonefederico/" target="_blank">Federico Carbone</a>, Regional Solutions Architect at Ping Identity, ran a live demonstration webinar showing how the <a href="https://www.pingidentity.com/en/platform/platform-overview.html" target="_blank">Ping Identity Platform</a> addresses the technical challenges of securing access through open APIs to process financial information and transactions. (<a href="https://www.pingidentity.com/en/resources/client-library/webinars/2017/psd2-open-banking-live-demo.html" target="_blank">Click here</a> to watch the replay.)</p> <p>&nbsp;</p> <p>Federico presented both the Payment Initiation Service Provider (PISP) and Account Information Service Provider (AISP) use cases, showing how the Ping Identity Platform:</p> <p>&nbsp;</p> <ul> <li>Utilises OAuth 2 and OpenID Connect token services to support financial institutions and third parties to complete a direct payment transaction and account information aggregation.</li> <li>Gathers, manages and enforces customer-driven consent.</li> <li>Enforces Strong Customer Authentication (SCA).</li> </ul> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>On 14th December 2017, <a href="https://www.linkedin.com/in/carbonefederico/" target="_blank">Federico Carbone</a>, Regional Solutions Architect at Ping Identity, ran a live demonstration webinar showing how the <a href="https://www.pingidentity.com/en/platform/platform-overview.html" target="_blank">Ping Identity Platform</a> addresses the technical challenges of securing access through open APIs to process financial information and transactions. (<a href="https://www.pingidentity.com/en/resources/client-library/webinars/2017/psd2-open-banking-live-demo.html" target="_blank">Click here</a> to watch the replay.)</p> <p>&nbsp;</p> <p>Federico presented both the Payment Initiation Service Provider (PISP) and Account Information Service Provider (AISP) use cases, showing how the Ping Identity Platform:</p> <p>&nbsp;</p> <ul> <li>Utilises OAuth 2 and OpenID Connect token services to support financial institutions and third parties to complete a direct payment transaction and account information aggregation.</li> <li>Gathers, manages and enforces customer-driven consent.</li> <li>Enforces Strong Customer Authentication (SCA).</li> </ul> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>Four Ways IAM Serves Those in Financial Services</title>
+<author>blog@pingidentity.com (Matt Klassen)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/four_ways_iam_serves_those_in_financial_service.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/four_ways_iam_serves_those_in_financial_service.html
+</link>
+<pubDate>Tue, 26 Dec 2017 12:10:57 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>If you work in the financial services world, your data security is your top priority. Between strict regulations around security and privacy, and the target on your back for cybercriminals, you have no room for error when it comes to protecting your customer and company data.</p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>If you work in the financial services world, your data security is your top priority. Between strict regulations around security and privacy, and the target on your back for cybercriminals, you have no room for error when it comes to protecting your customer and company data.</p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>
+NextCapital Invests in Ping SSO and MFA for Partner Authentication
+</title>
+<author>blog@pingidentity.com (Teresa Wu)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/nextcapital_invests_in_ping_sso_and_mfa_for_partner_authentication.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/nextcapital_invests_in_ping_sso_and_mfa_for_partner_authentication.html
+</link>
+<pubDate>Wed, 20 Dec 2017 13:51:45 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>Partner identity and access management (IAM) can be an intricate undertaking. Combine the security needs of employee IAM with the seamless user experience needs of customer IAM--and add to that challenges like hundreds of thousands of partners with their own diverse identity capabilities--and you get a sense of how complicated it can be to institute seamless and secure partner IAM.</p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>Partner identity and access management (IAM) can be an intricate undertaking. Combine the security needs of employee IAM with the seamless user experience needs of customer IAM--and add to that challenges like hundreds of thousands of partners with their own diverse identity capabilities--and you get a sense of how complicated it can be to institute seamless and secure partner IAM.</p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>2018 Predictions from Our CTO Office</title>
+<author>blog@pingidentity.com (Patrick Harding)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/2018_predictions_from_our_cto_office.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/2018_predictions_from_our_cto_office.html
+</link>
+<pubDate>Tue, 19 Dec 2017 13:18:40 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>At the end of each year, the CTO office here at Ping brims with excitement. Sure, the holidays and treats are wonderful, and we love guessing what's behind the gift wrap. But what excites us most is predicting what's to come next year with technology and identity trends. We've summed up 2017 and compiled a list of our top predictions, and we think 2018 is going to be big. Here's what you should expect...<br><br></p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>At the end of each year, the CTO office here at Ping brims with excitement. Sure, the holidays and treats are wonderful, and we love guessing what's behind the gift wrap. But what excites us most is predicting what's to come next year with technology and identity trends. We've summed up 2017 and compiled a list of our top predictions, and we think 2018 is going to be big. Here's what you should expect...<br><br></p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>When Should We Use SMS as a Second Factor?</title>
+<author>blog@pingidentity.com (Dustin Maxey)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/when_should_we_use_sms_as_a_second_factor.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/when_should_we_use_sms_as_a_second_factor.html
+</link>
+<pubDate>Tue, 19 Dec 2017 11:49:12 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>In our blog "<a href="https://www.pingidentity.com/en/company/blog/2017/09/25/should_you_use_sms_as_a_security_factor_for_customers.html" target="_blank">Should You Use SMS as a Security Factor for Customers</a>" we discussed many of the drawbacks to SMS including cost, security and user experience. There are clear advantages to using push notifications and trusted devices to authenticate customers and allow them to approve transactions, but a trusted-device-only approach may not be enough. The problem is that you can't force your customers to download your mobile application. Ideally, your customers would all download it, but unless you have a mobile-app-only business, this just isn't realistic.<br><br></p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>In our blog "<a href="https://www.pingidentity.com/en/company/blog/2017/09/25/should_you_use_sms_as_a_security_factor_for_customers.html" target="_blank">Should You Use SMS as a Security Factor for Customers</a>" we discussed many of the drawbacks to SMS including cost, security and user experience. There are clear advantages to using push notifications and trusted devices to authenticate customers and allow them to approve transactions, but a trusted-device-only approach may not be enough. The problem is that you can't force your customers to download your mobile application. Ideally, your customers would all download it, but unless you have a mobile-app-only business, this just isn't realistic.<br><br></p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>The Ping Identity Platform Has Evolved--Again</title>
+<author>blog@pingidentity.com (Matt Klassen)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/the_ping_identity_platform_has_evolved_again.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/the_ping_identity_platform_has_evolved_again.html
+</link>
+<pubDate>Thu, 14 Dec 2017 10:57:38 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>Today, we're officially announcing the general availability of PingFederate 9 and PingAccess 5. Collectively, these products represent the heart of our enterprise customers' access management solutions including <a href="https://www.pingidentity.com/en/platform/single-sign-on/sso-overview.html" target="_blank">single sign-on (SSO)</a>, access security and multi-factor authentication (MFA). They provide secure access for millions of employees, partners and customers to the tens of thousands of applications and services they need each day.</p> <p>&nbsp;</p> <p>These releases mark huge advances in functionality and performance, and it's a fundamental shift for enterprises that live in the world of hybrid cloud. PingFederate is moving from federation authority to authentication authority, and PingAccess is moving from authorization server to authorization authority.<br><br></p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>Today, we're officially announcing the general availability of PingFederate 9 and PingAccess 5. Collectively, these products represent the heart of our enterprise customers' access management solutions including <a href="https://www.pingidentity.com/en/platform/single-sign-on/sso-overview.html" target="_blank">single sign-on (SSO)</a>, access security and multi-factor authentication (MFA). They provide secure access for millions of employees, partners and customers to the tens of thousands of applications and services they need each day.</p> <p>&nbsp;</p> <p>These releases mark huge advances in functionality and performance, and it's a fundamental shift for enterprises that live in the world of hybrid cloud. PingFederate is moving from federation authority to authentication authority, and PingAccess is moving from authorization server to authorization authority.<br><br></p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+<item>
+<title>
+Implementing High-quality Controls to Protect Private Keys
+</title>
+<author>blog@pingidentity.com (Robb Reck)</author>
+<guid isPermaLink="true">
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/implementing_high-quality_controls_to_protect_private_keys.html
+</guid>
+<link>
+https://www.pingidentity.com/content/ping/en/company/blog/posts/2017/implementing_high-quality_controls_to_protect_private_keys.html
+</link>
+<pubDate>Tue, 12 Dec 2017 18:15:52 MST</pubDate>
+<description>
+<html> <head></head> <body> <p>At Ping Identity, we are always watching for new research in the area of identity standards. You may have seen one such paper recently: the blog article <a href="https://www.cyberark.com/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-cloud-apps/" target="_blank">Golden SAML: Newly Discovered Attack Technique Forges Authentication to Cloud Apps</a>. While the title of the blog post may be alarming at first glance, further examination points out the following:</p> <p>&nbsp;</p> <p style="margin-left: 30px;">"This attack doesn't rely on a vulnerability in SAML 2.0. It's not a vulnerability in AWS/ADFS, nor in any other service or identity provider... Golden SAML is rather similar. It's not a vulnerability per se, but it gives attackers the ability to gain unauthorized access to any service in a federation (assuming it uses SAML, of course) with any privileges and to stay persistent in this environment in a stealthy manner."</p> <p>&nbsp;</p> <p>Our security and identity teams have analyzed the claims in the blog post, and we believe that there are two primary claims: 1) that an attacker gaining access to the private signing key for a SAML Identity Provider may use that key to impersonate users, and 2) that this fact is a new disclosure.</p> <p>&nbsp;</p> </body> </html>
+</description>
+<content:encoded>
+<html> <head></head> <body> <p>At Ping Identity, we are always watching for new research in the area of identity standards. You may have seen one such paper recently: the blog article <a href="https://www.cyberark.com/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-cloud-apps/" target="_blank">Golden SAML: Newly Discovered Attack Technique Forges Authentication to Cloud Apps</a>. While the title of the blog post may be alarming at first glance, further examination points out the following:</p> <p>&nbsp;</p> <p style="margin-left: 30px;">"This attack doesn't rely on a vulnerability in SAML 2.0. It's not a vulnerability in AWS/ADFS, nor in any other service or identity provider... Golden SAML is rather similar. It's not a vulnerability per se, but it gives attackers the ability to gain unauthorized access to any service in a federation (assuming it uses SAML, of course) with any privileges and to stay persistent in this environment in a stealthy manner."</p> <p>&nbsp;</p> <p>Our security and identity teams have analyzed the claims in the blog post, and we believe that there are two primary claims: 1) that an attacker gaining access to the private signing key for a SAML Identity Provider may use that key to impersonate users, and 2) that this fact is a new disclosure.</p> <p>&nbsp;</p> </body> </html>
+</content:encoded>
+</item>
+</channel>
+</rss>
